@@ -1,0 +1,1618 @@
+canSignal:
+  - msgId: 0xfb
+    vehicleSpeed: 0
+    engineSpeed: 7
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416069
+  - msgId: 0xea
+    vehicleSpeed: 1
+    engineSpeed: 8
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416099
+  - msgId: 0xfb
+    vehicleSpeed: 0.23
+    engineSpeed: 8.6
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416150
+  - msgId: 0xea
+    vehicleSpeed: 4
+    engineSpeed: 7
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416200
+  - msgId: 0xfb
+    vehicleSpeed: 5.6
+    engineSpeed: 10
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416269
+  - msgId: 0xea
+    vehicleSpeed: 5.6
+    engineSpeed: 10
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416275
+  - msgId: 0xfb
+    vehicleSpeed: 8
+    engineSpeed: 11.2
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416285
+  - msgId: 0xea
+    vehicleSpeed: 5.6
+    engineSpeed: 10
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416316
+  - msgId: 0xfb
+    vehicleSpeed: 8.67
+    engineSpeed: 11.535
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416394
+  - msgId: 0xea
+    vehicleSpeed: 8.67
+    engineSpeed: 11.535
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416409
+  - msgId: 0xfb
+    vehicleSpeed: 15
+    engineSpeed: 14.7
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416409
+  - msgId: 0xea
+    vehicleSpeed: 20
+    engineSpeed: 17.2
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416441
+  - msgId: 0xea
+    vehicleSpeed: 20.34
+    engineSpeed: 17.37
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416503
+  - msgId: 0xfb
+    vehicleSpeed: 21.22
+    engineSpeed: 17.81
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416519
+  - msgId: 0xfb
+    vehicleSpeed: 30.45
+    engineSpeed: 22.425
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416565
+  - msgId: 0xea
+    vehicleSpeed: 42
+    engineSpeed: 28.2
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416581
+  - msgId: 0xfb
+    vehicleSpeed: 40.12
+    engineSpeed: 27.26
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416612
+  - msgId: 0xea
+    vehicleSpeed: 42.40625
+    engineSpeed: 28.403125
+    driverdoor_open: 1
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8416643
+  - msgId: 0xfb
+    vehicleSpeed: 42.796875
+    engineSpeed: 28.5984375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416675
+  - msgId: 0xea
+    vehicleSpeed: 43.25
+    engineSpeed: 28.825
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416721
+  - msgId: 0xfb
+    vehicleSpeed: 43.5
+    engineSpeed: 28.95
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416753
+  - msgId: 0xea
+    vehicleSpeed: 43.6875
+    engineSpeed: 29.04375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416784
+  - msgId: 0xfb
+    vehicleSpeed: 43.71875
+    engineSpeed: 29.059375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416815
+  - msgId: 0xea
+    vehicleSpeed: 44.109375
+    engineSpeed: 29.2546875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416846
+  - msgId: 0xfb
+    vehicleSpeed: 44.5
+    engineSpeed: 29.45
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416877
+  - msgId: 0xea
+    vehicleSpeed: 44.765625
+    engineSpeed: 29.5828125
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416909
+  - msgId: 0xfb
+    vehicleSpeed: 44.9375
+    engineSpeed: 29.66875
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416940
+  - msgId: 0xea
+    vehicleSpeed: 45.15625
+    engineSpeed: 29.778125
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8416987
+  - msgId: 0xfb
+    vehicleSpeed: 45.359375
+    engineSpeed: 29.8796875
+    driverdoor_open: 1
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417018
+  - msgId: 0xea
+    vehicleSpeed: 45.65625
+    engineSpeed: 30.028125
+    driverdoor_open: 1
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417049
+  - msgId: 0xfb
+    vehicleSpeed: 45.796875
+    engineSpeed: 30.0984375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417080
+  - msgId: 0xea
+    vehicleSpeed: 46.09375
+    engineSpeed: 30.246875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417111
+  - msgId: 0xfb
+    vehicleSpeed: 46.359375
+    engineSpeed: 30.3796875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417143
+  - msgId: 0xea
+    vehicleSpeed: 46.640625
+    engineSpeed: 30.5203125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417174
+  - msgId: 0xfb
+    vehicleSpeed: 46.984375
+    engineSpeed: 30.6921875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8417221
+  - msgId: 0xea
+    vehicleSpeed: 47.09375
+    engineSpeed: 30.746875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8417252
+  - msgId: 0xfb
+    vehicleSpeed: 47.109375
+    engineSpeed: 30.7546875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417283
+  - msgId: 0xea
+    vehicleSpeed: 47.4375
+    engineSpeed: 30.91875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417314
+  - msgId: 0xea
+    vehicleSpeed: 47.78125
+    engineSpeed: 31.090625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417345
+  - msgId: 0xfb
+    vehicleSpeed: 47.984375
+    engineSpeed: 31.1921875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417377
+  - msgId: 0xea
+    vehicleSpeed: 47.859375
+    engineSpeed: 31.1296875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417408
+  - msgId: 0xfb
+    vehicleSpeed: 48.140625
+    engineSpeed: 31.2703125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417455
+  - msgId: 0xea
+    vehicleSpeed: 48.359375
+    engineSpeed: 31.3796875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417486
+  - msgId: 0xfb
+    vehicleSpeed: 48.65625
+    engineSpeed: 31.528125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417564
+  - msgId: 0xea
+    vehicleSpeed: 48.875
+    engineSpeed: 31.6375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417579
+  - msgId: 0xfb
+    vehicleSpeed: 48.96875
+    engineSpeed: 31.684375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417611
+  - msgId: 0xea
+    vehicleSpeed: 49.65625
+    engineSpeed: 32.028125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417704
+  - msgId: 0xfb
+    vehicleSpeed: 49.90625
+    engineSpeed: 32.153125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417704
+  - msgId: 0xea
+    vehicleSpeed: 50.21875
+    engineSpeed: 32.309375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417720
+  - msgId: 0xfb
+    vehicleSpeed: 50.53125
+    engineSpeed: 32.465625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417751
+  - msgId: 0xea
+    vehicleSpeed: 50.859375
+    engineSpeed: 32.6296875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417798
+  - msgId: 0xfb
+    vehicleSpeed: 50.75
+    engineSpeed: 32.575
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417813
+  - msgId: 0xea
+    vehicleSpeed: 51.0625
+    engineSpeed: 32.73125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417860
+  - msgId: 0xfb
+    vehicleSpeed: 400.23
+    engineSpeed: 207.315
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417907
+  - msgId: 0xea
+    vehicleSpeed: 51.453125
+    engineSpeed: 32.9265625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417969
+  - msgId: 0xfb
+    vehicleSpeed: 500.123
+    engineSpeed: 257.2615
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8417985
+  - msgId: 0xea
+    vehicleSpeed: 51.796875
+    engineSpeed: 33.0984375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418001
+  - msgId: 0xfb
+    vehicleSpeed: 1000.342
+    engineSpeed: 507.371
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418110
+  - msgId: 0xea
+    vehicleSpeed: 52.046875
+    engineSpeed: 33.2234375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418125
+  - msgId: 0xfb
+    vehicleSpeed: 800.34
+    engineSpeed: 407.37
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418157
+  - msgId: 0xea
+    vehicleSpeed: 52.25
+    engineSpeed: 33.325
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418250
+  - msgId: 0xfb
+    vehicleSpeed: 52.828125
+    engineSpeed: 33.6140625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418266
+  - msgId: 0xea
+    vehicleSpeed: 52.296875
+    engineSpeed: 33.3484375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418281
+  - msgId: 0xfb
+    vehicleSpeed: 52.328125
+    engineSpeed: 33.3640625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418344
+  - msgId: 0xea
+    vehicleSpeed: 52.21875
+    engineSpeed: 33.309375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418375
+  - msgId: 0xfb
+    vehicleSpeed: 52.765625
+    engineSpeed: 33.5828125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418422
+  - msgId: 0xea
+    vehicleSpeed: 53.203125
+    engineSpeed: 33.8015625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418469
+  - msgId: 0xfb
+    vehicleSpeed: 53.375
+    engineSpeed: 33.8875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 1
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418484
+  - msgId: 0xea
+    vehicleSpeed: 53.5
+    engineSpeed: 33.95
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418531
+  - msgId: 0xfb
+    vehicleSpeed: 53.59375
+    engineSpeed: 33.996875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418547
+  - msgId: 0xfb
+    vehicleSpeed: 53.453125
+    engineSpeed: 33.9265625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418578
+  - msgId: 0xea
+    vehicleSpeed: 53.828125
+    engineSpeed: 34.1140625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418625
+  - msgId: 0xfb
+    vehicleSpeed: 54.375
+    engineSpeed: 34.3875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418656
+  - msgId: 0xea
+    vehicleSpeed: 54.078125
+    engineSpeed: 34.2390625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418687
+  - msgId: 0xfb
+    vehicleSpeed: 53.828125
+    engineSpeed: 34.1140625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418734
+  - msgId: 0xea
+    vehicleSpeed: 53.71875
+    engineSpeed: 34.059375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418781
+  - msgId: 0xfb
+    vehicleSpeed: 53.9375
+    engineSpeed: 34.16875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418812
+  - msgId: 0xea
+    vehicleSpeed: 54.1875
+    engineSpeed: 34.29375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418827
+  - msgId: 0xfb
+    vehicleSpeed: 54.1875
+    engineSpeed: 34.29375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418843
+  - msgId: 0xea
+    vehicleSpeed: 54.359375
+    engineSpeed: 34.3796875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418905
+  - msgId: 0xfb
+    vehicleSpeed: 54.5
+    engineSpeed: 34.45
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418921
+  - msgId: 0xea
+    vehicleSpeed: 54.4375
+    engineSpeed: 34.41875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418952
+  - msgId: 0xfb
+    vehicleSpeed: 54.21875
+    engineSpeed: 34.309375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8418983
+  - msgId: 0xea
+    vehicleSpeed: 54.125
+    engineSpeed: 34.2625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419046
+  - msgId: 0xfb
+    vehicleSpeed: 54.25
+    engineSpeed: 34.325
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419077
+  - msgId: 0xea
+    vehicleSpeed: 54.40625
+    engineSpeed: 34.403125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419139
+  - msgId: 0xfb
+    vehicleSpeed: 54.234375
+    engineSpeed: 34.3171875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419155
+  - msgId: 0xea
+    vehicleSpeed: 54.328125
+    engineSpeed: 34.3640625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419186
+  - msgId: 0xfb
+    vehicleSpeed: 54.375
+    engineSpeed: 34.3875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419217
+  - msgId: 0xea
+    vehicleSpeed: 54.59375
+    engineSpeed: 34.496875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419249
+  - msgId: 0xfb
+    vehicleSpeed: 54.53125
+    engineSpeed: 34.465625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419280
+  - msgId: 0xea
+    vehicleSpeed: 54.46875
+    engineSpeed: 34.434375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419311
+  - msgId: 0xfb
+    vehicleSpeed: 54.75
+    engineSpeed: 34.575
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419342
+  - msgId: 0xea
+    vehicleSpeed: 54.671875
+    engineSpeed: 34.5359375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419389
+  - msgId: 0xea
+    vehicleSpeed: 54.46875
+    engineSpeed: 34.434375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419420
+  - msgId: 0xfb
+    vehicleSpeed: 54.578125
+    engineSpeed: 34.4890625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419451
+  - msgId: 0xea
+    vehicleSpeed: 54.4375
+    engineSpeed: 34.41875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419483
+  - msgId: 0xfb
+    vehicleSpeed: 54.609375
+    engineSpeed: 34.5046875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419529
+  - msgId: 0xea
+    vehicleSpeed: 54.65625
+    engineSpeed: 34.528125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419529
+  - msgId: 0xfb
+    vehicleSpeed: 54.734375
+    engineSpeed: 34.5671875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419607
+  - msgId: 0xea
+    vehicleSpeed: 54.765625
+    engineSpeed: 34.5828125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419623
+  - msgId: 0xfb
+    vehicleSpeed: 60.45
+    engineSpeed: 37.425
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419826
+  - msgId: 0xea
+    vehicleSpeed: 65
+    engineSpeed: 39.7
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419841
+  - msgId: 0xfb
+    vehicleSpeed: 67.45
+    engineSpeed: 40.925
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419888
+  - msgId: 0xea
+    vehicleSpeed: 80.23
+    engineSpeed: 47.315
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8419997
+  - msgId: 0xfb
+    vehicleSpeed: 75.66
+    engineSpeed: 45.03
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420044
+  - msgId: 0xea
+    vehicleSpeed: 55.21875
+    engineSpeed: 34.809375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420107
+  - msgId: 0xea
+    vehicleSpeed: 65.45
+    engineSpeed: 39.925
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420138
+  - msgId: 0xfb
+    vehicleSpeed: 80.12
+    engineSpeed: 47.26
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420200
+  - msgId: 0xea
+    vehicleSpeed: 81.45
+    engineSpeed: 47.925
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420231
+  - msgId: 0xfb
+    vehicleSpeed: 86.7
+    engineSpeed: 50.55
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420247
+  - msgId: 0xea
+    vehicleSpeed: 53.875
+    engineSpeed: 34.1375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420278
+  - msgId: 0xfb
+    vehicleSpeed: 75.34
+    engineSpeed: 44.87
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420403
+  - msgId: 0xea
+    vehicleSpeed: 53.109375
+    engineSpeed: 33.7546875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420419
+  - msgId: 0xfb
+    vehicleSpeed: 73.45
+    engineSpeed: 43.925
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420450
+  - msgId: 0xea
+    vehicleSpeed: 52.765625
+    engineSpeed: 33.5828125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420512
+  - msgId: 0xfb
+    vehicleSpeed: 63.67
+    engineSpeed: 39.035
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420512
+  - msgId: 0xea
+    vehicleSpeed: 52.375
+    engineSpeed: 33.3875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420559
+  - msgId: 0xfb
+    vehicleSpeed: 58.3434
+    engineSpeed: 36.3717
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420575
+  - msgId: 0xea
+    vehicleSpeed: 56.77
+    engineSpeed: 35.585
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420637
+  - msgId: 0xfb
+    vehicleSpeed: 55.3
+    engineSpeed: 34.85
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420653
+  - msgId: 0xea
+    vehicleSpeed: 51.546875
+    engineSpeed: 32.9734375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420684
+  - msgId: 0xfb
+    vehicleSpeed: 51.6875
+    engineSpeed: 33.04375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420731
+  - msgId: 0xea
+    vehicleSpeed: 51.65625
+    engineSpeed: 33.028125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420746
+  - msgId: 0xfb
+    vehicleSpeed: 51.71875
+    engineSpeed: 33.059375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420777
+  - msgId: 0xea
+    vehicleSpeed: 51.734375
+    engineSpeed: 33.0671875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420809
+  - msgId: 0xfb
+    vehicleSpeed: 51.78125
+    engineSpeed: 33.090625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420840
+  - msgId: 0xea
+    vehicleSpeed: 51.9375
+    engineSpeed: 33.16875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420887
+  - msgId: 0xfb
+    vehicleSpeed: 51.875
+    engineSpeed: 33.1375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420918
+  - msgId: 0xea
+    vehicleSpeed: 52.203125
+    engineSpeed: 33.3015625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420949
+  - msgId: 0xfb
+    vehicleSpeed: 52.203125
+    engineSpeed: 33.3015625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8420980
+  - msgId: 0xea
+    vehicleSpeed: 52.328125
+    engineSpeed: 33.3640625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421027
+  - msgId: 0xfb
+    vehicleSpeed: 52.4375
+    engineSpeed: 33.41875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421043
+  - msgId: 0xea
+    vehicleSpeed: 52.1875
+    engineSpeed: 33.29375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421089
+  - msgId: 0xfb
+    vehicleSpeed: 52
+    engineSpeed: 33.2
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421105
+  - msgId: 0xea
+    vehicleSpeed: 51.6875
+    engineSpeed: 33.04375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421136
+  - msgId: 0xfb
+    vehicleSpeed: 51.25
+    engineSpeed: 32.825
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421183
+  - msgId: 0xea
+    vehicleSpeed: 51.1875
+    engineSpeed: 32.79375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421214
+  - msgId: 0xfb
+    vehicleSpeed: 50.90625
+    engineSpeed: 32.653125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421245
+  - msgId: 0xea
+    vehicleSpeed: 50.3125
+    engineSpeed: 32.35625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421277
+  - msgId: 0xfb
+    vehicleSpeed: 49.859375
+    engineSpeed: 32.1296875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421308
+  - msgId: 0xea
+    vehicleSpeed: 49.3125
+    engineSpeed: 31.85625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421339
+  - msgId: 0xfb
+    vehicleSpeed: 48.15625
+    engineSpeed: 31.278125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421370
+  - msgId: 0xea
+    vehicleSpeed: 48.125
+    engineSpeed: 31.2625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421417
+  - msgId: 0xea
+    vehicleSpeed: 47.171875
+    engineSpeed: 30.7859375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421448
+  - msgId: 0xfb
+    vehicleSpeed: 45.859375
+    engineSpeed: 30.1296875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421479
+  - msgId: 0xea
+    vehicleSpeed: 44.828125
+    engineSpeed: 29.6140625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421526
+  - msgId: 0xfb
+    vehicleSpeed: 43.53125
+    engineSpeed: 28.965625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421542
+  - msgId: 0xea
+    vehicleSpeed: 42.5625
+    engineSpeed: 28.48125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421589
+  - msgId: 0xfb
+    vehicleSpeed: 41.5
+    engineSpeed: 27.95
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421604
+  - msgId: 0xea
+    vehicleSpeed: 40.328125
+    engineSpeed: 27.3640625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421698
+  - msgId: 0xfb
+    vehicleSpeed: 39.1875
+    engineSpeed: 26.79375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421729
+  - msgId: 0xea
+    vehicleSpeed: 38.125
+    engineSpeed: 26.2625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421745
+  - msgId: 0xfb
+    vehicleSpeed: 37.140625
+    engineSpeed: 25.7703125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421791
+  - msgId: 0xea
+    vehicleSpeed: 36.078125
+    engineSpeed: 25.2390625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421807
+  - msgId: 0xfb
+    vehicleSpeed: 34.859375
+    engineSpeed: 24.6296875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421838
+  - msgId: 0xea
+    vehicleSpeed: 33.65625
+    engineSpeed: 24.028125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421932
+  - msgId: 0xfb
+    vehicleSpeed: 32.46875
+    engineSpeed: 23.434375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8421963
+  - msgId: 0xea
+    vehicleSpeed: 31.296875
+    engineSpeed: 22.8484375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422041
+  - msgId: 0xfb
+    vehicleSpeed: 30.15625
+    engineSpeed: 22.278125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422103
+  - msgId: 0xea
+    vehicleSpeed: 29.1875
+    engineSpeed: 21.79375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422166
+  - msgId: 0xfb
+    vehicleSpeed: 28.40625
+    engineSpeed: 21.403125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422213
+  - msgId: 0xfb
+    vehicleSpeed: 27.6875
+    engineSpeed: 21.04375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422244
+  - msgId: 0xea
+    vehicleSpeed: 26.65625
+    engineSpeed: 20.528125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422322
+  - msgId: 0xfb
+    vehicleSpeed: 26.21875
+    engineSpeed: 20.309375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422353
+  - msgId: 0xea
+    vehicleSpeed: 25.828125
+    engineSpeed: 20.1140625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422384
+  - msgId: 0xfb
+    vehicleSpeed: 25.546875
+    engineSpeed: 19.9734375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422493
+  - msgId: 0xea
+    vehicleSpeed: 25.21875
+    engineSpeed: 19.809375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422493
+  - msgId: 0xfb
+    vehicleSpeed: 24.96875
+    engineSpeed: 19.684375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422509
+  - msgId: 0xea
+    vehicleSpeed: 24.671875
+    engineSpeed: 19.5359375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422571
+  - msgId: 0xfb
+    vehicleSpeed: 24.234375
+    engineSpeed: 19.3171875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422571
+  - msgId: 0xea
+    vehicleSpeed: 23.796875
+    engineSpeed: 19.0984375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422603
+  - msgId: 0xfb
+    vehicleSpeed: 23.375
+    engineSpeed: 18.8875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422649
+  - msgId: 0xea
+    vehicleSpeed: 23
+    engineSpeed: 18.7
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8422681
+  - msgId: 0xfb
+    vehicleSpeed: 22.671875
+    engineSpeed: 18.5359375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422759
+  - msgId: 0xea
+    vehicleSpeed: 22.453125
+    engineSpeed: 18.4265625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422774
+  - msgId: 0xfb
+    vehicleSpeed: 22.015625
+    engineSpeed: 18.2078125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422821
+  - msgId: 0xea
+    vehicleSpeed: 21.59375
+    engineSpeed: 17.996875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422852
+  - msgId: 0xfb
+    vehicleSpeed: 21.171875
+    engineSpeed: 17.7859375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422868
+  - msgId: 0xea
+    vehicleSpeed: 20.734375
+    engineSpeed: 17.5671875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422930
+  - msgId: 0xfb
+    vehicleSpeed: 20.625
+    engineSpeed: 17.5125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422946
+  - msgId: 0xea
+    vehicleSpeed: 20.421875
+    engineSpeed: 17.4109375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8422977
+  - msgId: 0xfb
+    vehicleSpeed: 19.9375
+    engineSpeed: 17.16875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8423008
+  - msgId: 0xea
+    vehicleSpeed: 19.640625
+    engineSpeed: 17.0203125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 1
+    frameTickCountSysReadTime: 8423039
+  - msgId: 0xfb
+    vehicleSpeed: 19.4375
+    engineSpeed: 16.91875
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423071
+  - msgId: 0xea
+    vehicleSpeed: 18.90625
+    engineSpeed: 16.653125
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423102
+  - msgId: 0xfb
+    vehicleSpeed: 18.53125
+    engineSpeed: 16.465625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423149
+  - msgId: 0xea
+    vehicleSpeed: 18.125
+    engineSpeed: 16.2625
+    driverdoor_open: 0
+    frontPassengerDoor_open: 1
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423180
+  - msgId: 0xfb
+    vehicleSpeed: 17.546875
+    engineSpeed: 15.9734375
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423211
+  - msgId: 0xea
+    vehicleSpeed: 12.04
+    engineSpeed: 13.22
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423242
+  - msgId: 0xfb
+    vehicleSpeed: 12.05
+    engineSpeed: 13.225
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423273
+  - msgId: 0xea
+    vehicleSpeed: 10.34
+    engineSpeed: 12.37
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423305
+  - msgId: 0xfb
+    vehicleSpeed: 10.56
+    engineSpeed: 12.48
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423336
+  - msgId: 0xea
+    vehicleSpeed: 45
+    engineSpeed: 29.7
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423383
+  - msgId: 0xfb
+    vehicleSpeed: 8.5
+    engineSpeed: 11.45
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423414
+  - msgId: 0xea
+    vehicleSpeed: 213
+    engineSpeed: 113.7
+    driverdoor_open: 0
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423445
+  - msgId: 0xfb
+    vehicleSpeed: 5.5
+    engineSpeed: 9.95
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423523
+  - msgId: 0xea
+    vehicleSpeed: 3
+    engineSpeed: 8.7
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423539
+  - msgId: 0xfb
+    vehicleSpeed: 2.1
+    engineSpeed: 8.25
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423570
+  - msgId: 0xea
+    vehicleSpeed: 0
+    engineSpeed: 7.2
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423617
+  - msgId: 0xfb
+    vehicleSpeed: 0
+    engineSpeed: 7.2
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423663
+  - msgId: 0xea
+    vehicleSpeed: 0
+    engineSpeed: 7.2
+    driverdoor_open: 1
+    frontPassengerDoor_open: 0
+    rearLeftDoor_open: 0
+    rearRightDoor_open: 0
+    frameTickCountSysReadTime: 8423726
+	

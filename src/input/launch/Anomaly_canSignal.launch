@@ -1,0 +1,14 @@
+<launch>
+  <!-- provide yaml file name (temporary fix) -->
+  <arg name = "calibration_data_out" default = "topic_anomalySignals" />
+  <arg name = "frequency" default = "1" />
+  <arg name = "output_file_path" default = "$(find input) /config/cansignal.yaml" />
+ 
+ <!-- NODES -->
+ <node pkg="bmw_sen_vigem_calibration_parser" type="bmw_sen_vigem_calibration_parser_node" name="$(arg worksapce)" output="screen">
+  <param name = "calibration_data_out" value = "$(arg calibration_data_out)" />
+  <param name = "frequency" value = "$(arg frequency)" />
+  <param name = "output_file_path" value = "$(arg output_file_path)" />
+ </node>
+	
+</launch>
