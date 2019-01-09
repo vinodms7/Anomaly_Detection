@@ -20,8 +20,7 @@ C++ is used as the development language. The following are considered in designi
  - Open terminal and go to "src" folder. Enter "catkin_init_workspace" command.
  - Once CMakeList.txt is created in src, go back to workspace folder in terminal 
  - Enter "catkin_make install" command in terminal. 
- - After build completes, Enter "source devel/setup.bash" command in terminal
- - Enter "roslaunch ros_number_generator ros_number_generator_multiplier.launch" in terminal. This will create all the nodes and rqt_graph,   rqt_plot, ros console. 
+ - After build completes, Enter "source devel/setup.bash" command in terminal 
 
 ## Requirements
 
